@@ -1,0 +1,9 @@
+cd C:/Users/dylan/Desktop/ogl-master/misc05_picking/
+set 
+
+if [%1]==[--debugger] (
+	SHIFT
+)
+
+"C:\Users\dylan\Desktop\OpenGLTutorials-build-Visual2017-64bits\Debug\misc05_picking_slow_easy.exe"  
+pause
